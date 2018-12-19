@@ -3,6 +3,7 @@ import Article from '../Article';
 import './style.css';
 
 export default class ArticleList extends PureComponent {
+
     render(){   
         console.log('---', 2);
         const articleElements = this.props.articles.map((a, index) =>
