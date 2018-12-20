@@ -1,5 +1,5 @@
 
-**This project is the result of the videocourse from learn.javscript.ru: "Основы React"**
+**This project is the result of the videocourse from learn.javascript.ru: "Основы React"**
 
 *link: https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO*
 
